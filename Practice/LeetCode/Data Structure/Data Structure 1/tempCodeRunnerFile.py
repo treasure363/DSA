@@ -1,0 +1,1 @@
+for i in nums2
